@@ -1,0 +1,15 @@
+praw
+pandas
+numpy
+emoji
+transformers
+sentence-transformers
+spacy
+torch
+matplotlib
+tqdm
+networkx
+igraph
+leidenalg
+ipython
+jupyter
